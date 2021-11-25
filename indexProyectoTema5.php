@@ -39,7 +39,7 @@ Fecha Modificacion: 24/11/2021 -->
 
                 <tr>
                     <td>1. Desarrollo de un control de acceso con identificación del usuario basado en la función header()</td>
-                    <td class="hecho">
+                    <td class="no_hecho">
                         <a href="./codigoPHP/ejercicio01.php"><img class="img" alt="Play" src="./webroot/img/play.png" /></a></td>
                     <td>
                         <a href="./mostrarcodigo/ejercicio01.php"> <img class="img" alt="Codigo" src="./webroot/img/codigo.png" /></a>
@@ -48,7 +48,7 @@ Fecha Modificacion: 24/11/2021 -->
                 <tr>
                     <td>2. Desarrollo de un control de acceso con identificación del usuario basado en la función header() y
 						en el uso de una tabla “Usuario” de la base de datos. (PDO).</td>
-                    <td class="hecho">
+                    <td class="no_hecho">
                         <a href="./codigoPHP/ejercicio02.php"><img class="img" alt="Play" src="./webroot/img/play.png" /></a></td>
                     <td>
                         <a href="./mostrarcodigo/ejercicio02.php"> <img class="img" alt="Codigo" src="./webroot/img/codigo.png" /></a>
