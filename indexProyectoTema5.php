@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <!--Aroa Granero Omañas 
 Fecha Creacion: 24/11/2021
-Fecha Modificacion: 24/11/2021 -->
+Fecha Modificacion: 29/11/2021 -->
 <html lang="es">
     <head>
         <meta charset="UTF-8">
@@ -39,7 +39,7 @@ Fecha Modificacion: 24/11/2021 -->
 
                 <tr>
                     <td>1. Desarrollo de un control de acceso con identificación del usuario basado en la función header()</td>
-                    <td class="no_hecho">
+                    <td class="hecho">
                         <a href="./codigoPHP/ejercicio01.php"><img class="img" alt="Play" src="./webroot/img/play.png" /></a></td>
                     <td>
                         <a href="./mostrarcodigo/ejercicio01.php"> <img class="img" alt="Codigo" src="./webroot/img/codigo.png" /></a>
