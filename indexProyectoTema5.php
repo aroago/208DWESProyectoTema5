@@ -24,12 +24,22 @@ Fecha Modificacion: 29/11/2021 -->
 
             <table>
                 <tr>
+                    <td></td>
+                    <td colspan="2">Mostrar</td>
+                </tr>
+                <tr>
+                    <td><p>Archivos de configuracion, configDBPDO<p></td>
+                    <td colspan="2" >
+                        <a href="./mostrarcodigo/mostrarFicheroConfPDO.php"><img class="img" alt="Codigo" src="./webroot/img/codigo.png" /></a>
+                    </td>
+                </tr>
+                <tr>
                     <td>EJERCICIO</td>
                     <td>PLAY</td>
                     <td>CODIGO</td>
                 </tr>
                 <tr>
-                    <td>0. Mostrar el contenido de las variables superglobales y phpinfo().</td>
+                    <td><p>0. Mostrar el contenido de las variables superglobales y phpinfo().</p></td>
                     <td class="hecho">
                         <a href="./codigoPHP/ejercicio00.php"><img class="img" alt="Play" src="./webroot/img/play.png" /></a></td>
                     <td>
@@ -38,7 +48,7 @@ Fecha Modificacion: 29/11/2021 -->
                 </tr>
 
                 <tr>
-                    <td>1. Desarrollo de un control de acceso con identificación del usuario basado en la función header()</td>
+                    <td><p>1. Desarrollo de un control de acceso con identificación del usuario basado en la función header()</p></td>
                     <td class="hecho">
                         <a href="./codigoPHP/ejercicio01.php"><img class="img" alt="Play" src="./webroot/img/play.png" /></a></td>
                     <td>
@@ -46,9 +56,9 @@ Fecha Modificacion: 29/11/2021 -->
                     </td>
                 </tr>
                 <tr>
-                    <td>2. Desarrollo de un control de acceso con identificación del usuario basado en la función header() y
-						en el uso de una tabla “Usuario” de la base de datos. (PDO).</td>
-                    <td class="no_hecho">
+                    <td><p>2. Desarrollo de un control de acceso con identificación del usuario basado en la función header() y
+						en el uso de una tabla “Usuario” de la base de datos. (PDO).</p></td>
+                    <td class="hecho">
                         <a href="./codigoPHP/ejercicio02.php"><img class="img" alt="Play" src="./webroot/img/play.png" /></a></td>
                     <td>
                         <a href="./mostrarcodigo/ejercicio02.php"> <img class="img" alt="Codigo" src="./webroot/img/codigo.png" /></a>
@@ -61,7 +71,7 @@ Fecha Modificacion: 29/11/2021 -->
         <footer id="footerP">
             <p>&copy;2021 Todos los derechos reservados AroaGO</p>
             <div id="iconos">
-                <a type="application/github" href="https://github.com/aroago" target="_blank">
+                <a type="application/github" href="https://github.com/aroago/208DWESProyectoTema5" target="_blank">
                     <img class="iconoIMG" alt="gitHub" src="./webroot/img/github.png" />
                 </a>
             </div>
