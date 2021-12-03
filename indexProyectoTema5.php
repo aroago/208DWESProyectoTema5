@@ -22,7 +22,31 @@ Fecha Modificacion: 29/11/2021 -->
         </header>
         <main>
 
-            <table>
+           <table>
+                <tr>
+                    <td><p>Fichero CrearBD<p></td>
+                    <td  class="hecho">
+                        <a href="./scriptBD/CreaDAW208DBDepartamentosExplotacion.php"><img class="img" alt="Play" src="./webroot/img/play.png" /></a></td>
+                    <td>
+                        <a href="./mostrarCodigo/mostrarCrearExplotacion.php"><img class="img" alt="Codigo" src="./webroot/img/codigo.png" /></a>
+                    </td>
+                </tr>
+                <tr>
+                    <td><p>Fichero CargaBD</p></td>
+                    <td  class="hecho">
+                        <a href="./scriptBD/CargaInicialDAW208DBDepartamentosExplotacion.php"><img class="img" alt="Play" src="./webroot/img/play.png" /></a></td>
+                    <td>
+                        <a href="./mostrarCodigo/mostrarCargaInicialExplotacion.php"><img class="img" alt="Codigo" src="./webroot/img/codigo.png" /></a>
+                    </td>
+                </tr>
+                <tr>
+                    <td><p>Fichero BorrarBD<p></td>
+                    <td class="hecho">
+                        <a href="./scriptBD/BorraDAW208DBDepartamentosExplotacion.php"><img class="img" alt="Play" src="./webroot/img/play.png" /></a></td>
+                    <td>
+                        <a href="./mostrarCodigo/mostrarBorrarExplotacion.php"><img class="img" alt="Codigo" src="./webroot/img/codigo.png" /></a>
+                    </td>
+                </tr>
                 <tr>
                     <td></td>
                     <td colspan="2">Mostrar</td>
@@ -65,13 +89,8 @@ Fecha Modificacion: 29/11/2021 -->
                     </td>
                 </tr>
                <tr>
-                    <td><p>3. Desarrollo de una aplicación (Proyecto LoginLogoff) con control de acceso e identificación del
-                                usuario basado en un formulario (Login.php) con un botón de “Entrar” y en el uso de una tabla
-                                “Usuario” de la base de datos (PDO). En el caso de que tecleemos un usuario y password
-                                correctos se abrirá otra página (Programa.php) donde tendremos un botón de “Salir” que nos
-                                devolverá al Login.php (Funionalidad Logoff que nos redirige automáticamente a la página de
-                                autenticación).</p></td>
-                    <td colspan="2" class="no_hecho">
+                    <td><p>3. Proyecto LoginLogoff</p></td>
+                    <td colspan="2" class="hecho">
                         <a href="../208DWESLoginLogoutTema5/indexProyectoLoginLogoutTema5.php"><img class="img" alt="Play" src="./webroot/img/play.png" /></a>
                     </td>
                 </tr>
