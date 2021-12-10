@@ -88,12 +88,6 @@ Fecha Modificacion: 29/11/2021 -->
                         <a href="./mostrarcodigo/ejercicio02.php"> <img class="img" alt="Codigo" src="./webroot/img/codigo.png" /></a>
                     </td>
                 </tr>
-               <tr>
-                    <td><p>3. Proyecto LoginLogoff</p></td>
-                    <td colspan="2" class="hecho">
-                        <a href="../208DWESLoginLogoutTema5/indexProyectoLoginLogoutTema5.php"><img class="img" alt="Play" src="./webroot/img/play.png" /></a>
-                    </td>
-                </tr>
                
             </table>
 
